@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Boyer-Moore Pattern Search Engine (Node.js + C++)
 
 This project implements a high-performance pattern search engine using the **Boyer-Moore** algorithm written in C++, exposed to Node.js via a native addon.
@@ -10,7 +9,6 @@ Perfect for learning:
 
 ---
 
-```markdown
 ## 📁 Project Structure
 
 Boyer-Moore/
