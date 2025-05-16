@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Native build output
+build/
+addon/build/
+addon/Release/
+addon/Debug/
+
+# OS/Editor junk
+.DS_Store
+*.log
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Compiled C++ files
+*.o
+*.obj
+*.node
