@@ -108,15 +108,5 @@ Response:
 * ✅ Fast and efficient string matching
 * ✅ RESTful API with Express.js
 
----
-
-## 📝 License
-
-MIT – Do whatever you want 🤘
-
-````
-
----
-
 
 
