@@ -10,8 +10,7 @@ Perfect for learning:
 ---
 
 ## 📁 Project Structure
-<pre> 
-Boyer-Moore/
+<pre> Boyer-Moore/
 ├── addon/ # C++ code + binding.gyp
 │ ├── search.cpp
 │ └── binding.gyp
