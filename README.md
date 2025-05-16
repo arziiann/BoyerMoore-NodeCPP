@@ -9,10 +9,15 @@ Perfect for learning:
 
 ---
 
+## 📁 Project Structure
 
-<pre> ## 📁 Project Structure ``` Boyer-Moore/ ├── addon/ # C++ code + binding.gyp │ ├── search.cpp │ └── binding.gyp ├── build/ # Compiled addon (.node) ├── index.js # Express server using the addon ├── package.json ``` </pre>
-
----
+Boyer-Moore/
+├── addon/ # C++ code + binding.gyp
+│ ├── search.cpp
+│ └── binding.gyp
+├── build/ # Compiled addon (.node)
+├── index.js # Express server using the addon
+├── package.json
 
 ## ⚙️ Prerequisites
 
