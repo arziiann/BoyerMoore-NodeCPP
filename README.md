@@ -1,5 +1,3 @@
----
-
 ### ✅ `README.md` — *Boyer-Moore Pattern Search with Node.js + Native C++*
 
 ```markdown
