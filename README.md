@@ -1,5 +1,3 @@
-### ✅ `README.md` — *Boyer-Moore Pattern Search with Node.js + Native C++*
-
 ```markdown
 # 🚀 Boyer-Moore Pattern Search Engine (Node.js + C++)
 
@@ -33,15 +31,14 @@ Boyer-Moore/
 - Node.js ≥ 16.x
 - C++ compiler (g++, clang, MSVC etc.)
 - Python (for node-gyp)
-- `node-gyp` installed (local or global)
+- `node-addon-api` installed via `npm`
+- `node-gyp` installed (globally or locally)
 
 ---
 
 ## 🚀 Installation & Build
 
 ```bash
-# Clone repo (or open your own folder)
-
 # Install Node dependencies
 npm install
 
@@ -105,11 +102,11 @@ Response:
 
 ## 🧠 Learnings
 
-✅ C++ Boyer-Moore
-✅ N-API (native addon with `node-addon-api`)
-✅ Interfacing C++ ⇄ JavaScript
-✅ Fast and efficient string matching
-✅ RESTful API with Express.js
+* ✅ C++ Boyer-Moore implementation
+* ✅ Native Addons using `node-addon-api`
+* ✅ Interfacing C++ and JavaScript
+* ✅ Fast and efficient string matching
+* ✅ RESTful API with Express.js
 
 ---
 
@@ -117,6 +114,9 @@ Response:
 
 MIT – Do whatever you want 🤘
 
-```
+````
+
+---
+
 
 
