@@ -11,7 +11,6 @@ Perfect for learning:
 
 ## 📁 Project Structure
 <pre> 
-
 Boyer-Moore/
 ├── addon/ # C++ code + binding.gyp
 │ ├── search.cpp
@@ -19,7 +18,6 @@ Boyer-Moore/
 ├── build/ # Compiled addon (.node)
 ├── index.js # Express server using the addon
 ├── package.json
-
 </pre>
 
 ## ⚙️ Prerequisites
